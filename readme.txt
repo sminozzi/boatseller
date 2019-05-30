@@ -1,5 +1,6 @@
 === boatseller ===
 Contributors: sminozzi
+Theme URI: www.BoatSellerTheme.com
 Requires at least: WordPress 4.4
 Tested up to: WordPress 5.2
 Version: 1.2.3
