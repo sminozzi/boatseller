@@ -15,6 +15,7 @@ Boat Seller is a multilingual and multicurrency theme for dealership to manage, 
 2. Type in boat seller in the search form and press the 'Enter' key on your keyboard.
 3. Click on the 'Activate' button to use your new theme right away.
 4. Navigate to Appearance > Customize in your admin panel and customize to taste.
+Demo Page: www.BoatSellerTheme.com
 
 == Copyright ==
 boat seller, Copyright 2018 Bill Minozzi
