@@ -1,0 +1,567 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BoatSeller\n"
+"POT-Creation-Date: 2018-12-11 10:43-0000\n"
+"PO-Revision-Date: 2018-12-11 10:43-0000\n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: Bill Minozzi <sergiominozzi@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: f:\\boatsellertheme\\wordpress\\boatseller_107\n"
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/archive.php:81
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/index.php:54
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/search.php:69
+msgid "Previous page"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/archive.php:83
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/index.php:55
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/search.php:71
+msgid "Next page"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/archive.php:85
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/image.php:95
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/index.php:56
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/search.php:73
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content-list.php:42
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content-masonry.php:42
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content-page.php:23
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content-single.php:24
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content.php:31
+msgid "Page"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/comments.php:125
+msgid "Comments are closed."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/erros.php:44
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/functions.php:87
+msgid "Social Links Menu"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/erros.php:45
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/functions.php:86
+msgid "Primary Menu"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/footer.php:58
+msgid "Powered by  BoatSellerTheme.com"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/footer.php:68
+msgid "Back to Top"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/functions.php:27
+msgid "Set Up Your Menu"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/functions.php:150
+msgid "Sidebar"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/functions.php:152
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/functions.php:160
+msgid "First Footer Widget"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/functions.php:162
+msgid "Add widgets here to appear in your left footer."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/functions.php:170
+msgid "Second Footer Widget"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/functions.php:172
+msgid "Add widgets here to appear in your center footer."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/functions.php:180
+msgid "Third Footer Widget"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/functions.php:182
+msgid "Add widgets here to appear in your right footer."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/functions.php:298
+msgid "expand child menu"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/functions.php:299
+msgid "collapse child menu"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/header.php:119
+msgid "1 product"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/header.php:143
+msgid "Menu"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/image.php:37
+msgid "Previous Image"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/image.php:39
+msgid "Next Image"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/image.php:87
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content-list.php:37
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content-masonry.php:37
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content-page.php:19
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content-single.php:20
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content.php:27
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/image.php:141
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content-search.php:37
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/back-compat.php:38
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/back-compat.php:50
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/back-compat.php:65
+#, php-format
+msgid ""
+"boat seller requires at least WordPress version 4.4. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:107
+msgid "General Settings Panel"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:116
+msgid "Branding Margin From Top"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:119
+msgid "Choose from -20px to 100px"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:132
+msgid "Display Site Title and Tagline"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:141
+msgid "Layout"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:144
+msgid "Change General options here."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:157
+msgid "Show entry-title"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:171
+msgid "Website Layout"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:174
+msgid "Boxed Width 1200px"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:175
+msgid "Boxed Width 1000px"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:176
+msgid "Wide"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:188
+msgid "Background transparency (opacity)"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:189
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:286
+msgid "Choose from .6 to 1"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:201
+msgid "Top Header Settings"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:218
+msgid "Show"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:219
+msgid ""
+"Show Top Header Info (email, phone, hours) and Social Media Menu at top "
+"header."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:228
+msgid "Top Info Phone"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:230
+msgid "Digite only numbers and . or - to separate them."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:238
+msgid "Top Info eMail"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:247
+msgid "Top Info Hours"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:258
+msgid "Header Top Info Color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:270
+msgid "Header Settings"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:273
+msgid "Configure header transparency, bottom border and background color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:285
+msgid "Background header transparency (opacity)"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:304
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:346
+msgid "Header Background Color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:321
+msgid "Show 1px bottom header border"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:332
+msgid "Header Bottom Border Color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:363
+msgid "Shopping Cart Text Color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:366
+msgid "If you use WooCommerce plugin"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:377
+msgid "Main Navigation Design"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:381
+msgid "Change Navigation detais here."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:393
+msgid "Menu Margin Top"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:394
+msgid "Choose from -20 to 50 Pixels."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:410
+msgid "Menu Margin Right"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:411
+msgid "Choose from -20 to 30 Pixels."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:426
+msgid "Menu Font Size"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:427
+msgid "Choose from 12 to 20 Pixels."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:442
+msgid "Background Navigation Color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:456
+msgid "Menu Text Color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:470
+msgid "Menu Text Hover Color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:484
+msgid "Sub Menu Background"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:498
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:512
+msgid "Sub Menu Hover color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:526
+msgid "Sub Menu Hover Background"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:538
+msgid "Social Navigation Design"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:555
+msgid "Social Menu Color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:558
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:649
+msgid "White"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:559
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:650
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:1068
+msgid "Gray"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:560
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:651
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:1057
+msgid "Dark"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:569
+msgid "Footer Copyright"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:581
+msgid "Copyright Footer Text Here"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:592
+msgid "Copyright Background Color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:606
+msgid "Copyright Text Color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:629
+msgid "Footer Background"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:646
+msgid "Footer Background Color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:662
+msgid "Blog Settings"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:665
+msgid "Configure Blog style."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:679
+msgid "Choose Blog Page Style"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:680
+msgid "Look the right panel (and go to blog page) to see the preview..."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:682
+msgid "Blog Standard"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:683
+msgid "Blog List View"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:684
+msgid "Blog Masonry"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:693
+msgid "Turn on to display post meta on blog single posts page"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:703
+msgid "Turn on to display post author on blog single posts page"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:713
+msgid "Turn on to display categories on blog posts"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:723
+msgid "Turn on to display date on blog posts"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:734
+msgid "Turn on to display sidebar on posts page."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:749
+msgid "Turn on to display sidebar at all blog single post pages."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:768
+msgid "Miscellany"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:771
+msgid "Configure Theme Preloader, Search Icon and Back to top. "
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:780
+msgid "Turn on the Preloader"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:792
+msgid "Turn on the Search Icon"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:802
+msgid "Turn on the Back to Top Button"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:934
+msgid "Base Color Scheme"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:947
+msgid "Page Background Color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:959
+msgid "Link Color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:969
+msgid "Main Text Color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:979
+msgid "Secondary Text Color"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:1046
+msgid "Default"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:1079
+msgid "Orange"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/customizer.php:1090
+msgid "Blue"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/inc/template-tags.php:46
+msgid "Leave a comment"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/search.php:39
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/single.php:37
+msgid "Next"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/single.php:38
+msgid "Next post:"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/single.php:40
+msgid "Previous"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/single.php:41
+msgid "Previous post:"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/biography.php:49
+msgid "Author:"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/biography.php:61
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content-none.php:23
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content-none.php:27
+msgid "Get started here"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content-none.php:33
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content-none.php:38
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post
+#. __('Edit<span class="screen-reader-text"> "%s"</span>', 'boatseller' ),
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. __('Edit<span class="screen-reader-text"> "%s"</span>', 'boatseller' ),
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content-page.php:33
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content-search.php:24
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content-single.php:38
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content.php:43
+msgid "Edit"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content.php:13
+msgid "Featured"
+msgstr ""
+
+#: f:\boatsellertheme\wordpress\boatseller_107/boatseller/template-parts/content.php:23
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
